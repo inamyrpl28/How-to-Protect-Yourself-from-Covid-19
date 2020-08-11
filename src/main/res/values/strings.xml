@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">How to Protect Yourself from Covid-19</string>
+    <string name="ayojagadiri">AYO JAGA DIRI</string>
+    <string name="cucitangan">CUCI TANGAN</string>
+    <string name="pakaimasker">PAKAI MASKER</string>
+    <string name="polahidupsehat">POLA HIDUP SEHAT</string>
+    <string name="cara_pakai_masker_yang_benar">Cara Pakai Masker yang Benar</string>
+    <string name="cuci_tangan_yang_benar">Cuci Tangan yang Benar</string>
+    <string name="pola_hidup_sehat">Pola Hidup Sehat</string>
+    <string name="ayo_jaga_diri">Ayo Jaga Diri</string>
+</resources>
